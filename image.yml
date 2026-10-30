@@ -15,6 +15,9 @@ upstream:
     type: github_release
     repo: IrosTheBeggar/mStream
     tag: ${VERSION}
+  sponsor:
+  - name: mStream (GitHub Sponsors)
+    url: https://github.com/sponsors/IrosTheBeggar
 
 release:
   branch: master
